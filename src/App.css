@@ -1,0 +1,20 @@
+.container-nav
+{ 
+  font-size: 30px;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+.abc
+{ display:flex;
+  align-items: center;
+  justify-content: center
+
+}
+
+.act:active{
+  font-weight: "bold";
+  color: "red"
+}
+Route{
+  font-size: 30px;
+}
